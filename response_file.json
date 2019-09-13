@@ -1,0 +1,17 @@
+{
+  "mobile":{
+    "bottom_margin":10,
+    "top_margin":10,
+    "start_margin":8,
+    "end_margin":8,
+    
+    "height":198,
+    "width":352,
+    
+    "unit_type":"floating",
+    "fl_direction" : "right",
+    "content_url": "TODO",
+    "ad_xml_url": "TODO"
+    }
+}
+    
