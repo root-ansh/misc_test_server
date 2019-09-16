@@ -1,0 +1,50 @@
+[
+{
+	"bidderCode": "appnexus",
+	"width": 640,
+	"height": 480,
+	"statusMessage": "Bid available",
+	"adId": "3851a6a431c0cc",
+	"requestId": "268cfaf0693f02",
+	"mediaType": "video",
+	"source": "client",
+	"cpm": 5,
+	"creativeId": 97517771,
+	"currency": "USD",
+	"netRevenue": true,
+	"ttl": 3600,
+	"adUnitCode": "video1",
+	"appnexus": {
+		"buyerMemberId": 9325
+	},
+	"meta": {
+		"advertiserId": 2529885
+	},
+	"vastImpUrl": "http://sin1-ib.adnxs.com/vast_track/v2?info=aAAAAAMArgAFAQlaOH9dAAAAABHsixkFScj0ThlaOH9dAAAAACDLgcAuKAAw7Ug47UhA0-hISLuv1AFQ6dGnBljDlQtiAklOaAFwAXgAgAEBiAEBkAGABZgB4AOgAQCoAcuBwC6wAQE.&s=290c7b6c22cdf3194564a7138a0a2dbb1b2e7e53&event_type=1",
+	"vastUrl": "http://sin1-ib.adnxs.com/ab?ro=1&an_audit=0&referrer=http%3A%2F%2Fprebid.org%2Fexamples%2Fvideo%2Fvideojs-demo.html&e=wqT_3QL_CKB_BAAAAwDWAAUBCNrw_OsFEOyX5qiQibL6ThjN05n4kNWA40IqNgkAAAECCBRAEQEHNAAAFEAZAAAA4HoUFEAhERIAKREJADERG6gw6dGnBjjtSEDtSEgCUMuBwC5YnPFbYABozbp1eOCjBYABAYoBA1VTRJIBAQbwUpgBAaABAagBAbABALgBA8ABBMgBAtABANgBAOABAPABAIoCO3VmKCdhJywgMjUyOTg4NSwgMTU2ODYxODU4Nik7dWYoJ3InLCA5NzUxNzc3MSwgLh4A8PWSAqUCIUREZEFLQWkyLUx3S0VNdUJ3QzRZQUNDYzhWc3dBRGdBUUFSSTdVaFE2ZEduQmxnQVlJMEdhQUJ3QUhnQWdBRUFpQUVBa0FFQW1BRUFvQUVCcUFFRHNBRUF1UUh6cldxa0FBQVVRTUVCODYxcXBBQUFGRURKQVVkdkpRQ3lpZ1ZBMlFFQUFBQUFBQUR3UC1BQkFQVUJBQUFBQUpnQ0FLQUNBTFVDQUFBQUFMMENBQUFBQU9BQ0FPZ0NBUGdDQUlBREFaZ0RBYWdEdHZpOENyb0RDVk5KVGpFNk16VTJNZUFEcmhLSUJBQ1FCQUNZQkFIQkIFRQkBCHlRUQkJAQEUTmdFQVBFEY0BkEg0QkFDSUJla2KaAokBITFBN00tOikBJG5QRmJJQVFvQUQVOFRVUURvSlUwbE9NVG96TlRZeFFLNFNTEWgMUEFfVREMDEFBQVcdDABZHQwAYR0MAGMdDPBSZUFBLsICP2h0dHA6Ly9wcmViaWQub3JnL2Rldi1kb2NzL3Nob3ctdmlkZW8td2l0aC1hLWRmcC12aWRlby10YWcuaHRtbNgCAOACrZhI6gIyaHQ-SgAgZXhhbXBsZXMvBUUJBhhqcy1kZW1vBT1o8gITCg9DVVNUT01fTU9ERUxfSUQSAPICGgoWMhYAIExFQUZfTkFNRQEdCB4KGjYdAAhBU1QBPuBJRklFRBIAgAMAiAMBkAMAmAMXoAMBqgMAwAPgqAHIAwDYAwDgAwDoAwD4AwGABACSBA0vdXQvdjMN_PBemAQAogQMMTQuOTguOTQuMTkwqAQAsgQSCAEQAhiABSDgAygBKAIwADgDuAQAwAQAyAQA0gQOOTMyNSNTSU4xOjM1NjHaBAIIAeAEAPAEy4HALogFAZgFAKAF______8BAxQBwAUAyQVpyhTwP9IFCQkJDHgAANgFAeAFAfAFw5UL-gUECAAQAJAGAZgGALgGAMEGCSU08D_IBgDQBvUv2gYWChAJFBkBUBAAGADgBgTyBgIIAIAHAYgHAKAHQA..&s=4ec748d0ccf5bd8bec33ce5e63936db2e12e5cf6",
+	"auctionId": "0629539c-9494-4fcb-b99a-de49a3f6bbc3",
+	"responseTimestamp": 1568618585119,
+	"requestTimestamp": 1568618584621,
+	"bidder": "appnexus",
+	"timeToRespond": 498,
+	"pbLg": "5.00",
+	"pbMg": "5.00",
+	"pbHg": "5.00",
+	"pbAg": "5.00",
+	"pbDg": "5.00",
+	"pbCg": "",
+	"videoCacheKey": "4f3f6cd5-be54-4c5a-8344-7860ce5c5aad",
+	"size": "640x480",
+	"adserverTargeting": {
+		"hb_bidder": "appnexus",
+		"hb_adid": "3851a6a431c0cc",
+		"hb_pb": "5.00",
+		"hb_size": "640x480",
+		"hb_source": "client",
+		"hb_format": "video",
+		"hb_uuid": "4f3f6cd5-be54-4c5a-8344-7860ce5c5aad",
+		"hb_cache_id": "4f3f6cd5-be54-4c5a-8344-7860ce5c5aad",
+		"hb_cache_host": "prebid.adnxs.com"
+	}
+}
+]
