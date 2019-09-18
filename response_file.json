@@ -5,11 +5,11 @@
     "start_margin":8,
     "end_margin":8,
     
-    "height":300,
-    "width":300,
+    "height":100,
+    "width":200,
     
     "unit_type":"floating",
-    "fl_direction" : "right"
+    "fl_direction" : "left"
    },
   
    "content_url": "https://www.radiantmediaplayer.com/media/bbb-360p.mp4",
