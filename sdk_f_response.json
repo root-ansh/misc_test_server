@@ -1,7 +1,7 @@
 {
   "mobile": {
     "show": true,
-    "width": 352,
+    "width": 252,
     "height": 198,
     "bottomMargin": 10,
     "unitType": "floating",
