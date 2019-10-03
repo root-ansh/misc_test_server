@@ -52,27 +52,26 @@
   "waterfallTags": 
     [
 	{
-        "offset":0,  
+        "offset":1,  
         "ad_tags":
             [
-            "googleads.g.doubleclick.net\/pagead\/ads?client=ca-video-pub-7094677798399606&slotname=5317766785&ad_type=video&description_url=http%3A%2F%2Fmapsofindia.com&max_ad_duration=60000&videoad_start_delay=0&vpmute=1&vpa=1",
-            "ads.adaptv.advertising.com\/a\/h\/L7cCbvBg8Y1fKEtPSx+MrMeLniox3XoVXPUWSqEEXhE=?cb=1010100101&gdpr=0&pet=preroll&pageUrl=http%3A%2F%2Fmapsofindia.com&eov=eov"
-            ]
+		    "http://pubads.g.doubleclick.net/gampad/ads?slotname=/124319096/external/ad_rule_samples&sz=640x480&ciu_szs=300x250&cust_params=deployment%3Ddevsite%26sample_ar%3Dpremidpost&url=https://developers.google.com/interactive-media-ads/docs/sdks/html5/tags&unviewed_position_start=1&output=xml_vast3&impl=s&env=vp&gdfp_req=1&ad_rule=0&vad_type=linear&vpos=postroll&pod=3&ppos=1&lip=true&min_ad_duration=0&max_ad_duration=30000&vrid=6256&video_doc_id=short_onecue&cmsid=496&kfa=0&tfcd=0"
+	
+	    ]
        },
        {
        "offset":10,  
        "ad_tags":
             [
-             "googleads.g.doubleclick.net/pagead/ads?client=ca-video-pub-7094677798399606&slotname=mapsofindia-mid2&ad_type=video&description_url=http%3A%2F%2Fmapsofindia.com&max_ad_duration=60000&videoad_start_delay=0&vpmute=1&vpa=1",
-             "ads.adaptv.advertising.com/a/h/EVAhpKACc7YHg1eSfTkhADQ2_RWG_h1RTUDEwXyPJ+y9K_Qk1EYa9etdAnKshlV5?cb=101010&gdpr=0&pet=preroll&pageUrl=http%3A%2F%2Fmapsofindia.com&eov=eov" 
-            ]
+		    "pubads.g.doubleclick.net/gampad/ads?slotname=/124319096/external/ad_rule_samples&sz=640x480&ciu_szs=300x250&cust_params=deployment%3Ddevsite%26sample_ar%3Dpremidpost&url=https://developers.google.com/interactive-media-ads/docs/sdks/html5/tags&unviewed_position_start=1&output=xml_vast3&impl=s&env=vp&gdfp_req=1&ad_rule=0&cue=15000&vad_type=linear&vpos=midroll&pod=2&mridx=1&rmridx=1&ppos=1&lip=true&min_ad_duration=0&max_ad_duration=30000&vrid=6256&video_doc_id=short_onecue&cmsid=496&kfa=0&tfcd=0"
+	    ]
        },
        {
        "offset":5,  
        "ad_tags":
             [
-            "googleads.g.doubleclick.net/pagead/ads?client=ca-video-pub-7094677798399606&slotname=mapsofindia-mid2&ad_type=video&description_url=http%3A%2F%2Fmapsofindia.com&max_ad_duration=60000&videoad_start_delay=0&vpmute=1&vpa=1",
-            "ads.adaptv.advertising.com/a/h/EVAhpKACc7YHg1eSfTkhADQ2_RWG_h1RTUDEwXyPJ+y9K_Qk1EYa9etdAnKshlV5?cb=101010&gdpr=0&pet=preroll&pageUrl=http%3A%2F%2Fmapsofindia.com&eov=eov"
+		    "pubads.g.doubleclick.net/gampad/ads?slotname=/124319096/external/ad_rule_samples&sz=640x480&ciu_szs=300x250&cust_params=deployment%3Ddevsite%26sample_ar%3Dpremidpost&url=https://developers.google.com/interactive-media-ads/docs/sdks/html5/tags&unviewed_position_start=1&output=xml_vast3&impl=s&env=vp&gdfp_req=1&ad_rule=0&vad_type=linear&vpos=preroll&pod=1&ppos=1&lip=true&min_ad_duration=0&max_ad_duration=30000&vrid=6256&video_doc_id=short_onecue&cmsid=496&kfa=0&tfcd=0",
+		    "ads.adaptv.advertising.com/a/h/EVAhpKACc7YHg1eSfTkhADQ2_RWG_h1RTUDEwXyPJ+y9K_Qk1EYa9etdAnKshlV5?cb=101010&gdpr=0&pet=preroll&pageUrl=http%3A%2F%2Fmapsofindia.com&eov=eov"
            ]
       }
   ]
