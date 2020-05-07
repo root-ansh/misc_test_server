@@ -1,4 +1,4 @@
-
+{
   "array": [1,2,3],
   "array_of_objects" : [
      {"name" : "person1"},
