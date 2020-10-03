@@ -1,0 +1,64 @@
+{
+  "luggage_items": [
+    {
+      "name": "Steven",
+      "lgg_hand": 1,
+      "lgg_cabin": 0,
+      "other_info": "danny@starr.ht"
+    },
+    {
+      "name": "Clyde",
+      "lgg_hand": 1,
+      "lgg_cabin": 1,
+      "other_info": "robin@burke.mm"
+    },
+    {
+      "name": "Jose",
+      "lgg_hand": 0,
+      "lgg_cabin": 0,
+      "other_info": "carl@sherrill.sv"
+    },
+    {
+      "name": "Jackie",
+      "lgg_hand": 1,
+      "lgg_cabin": 1,
+      "other_info": "paige@morse.pa"
+    },
+    {
+      "name": "Marguerite",
+      "lgg_hand": 0,
+      "lgg_cabin": 0,
+      "other_info": "bob@harmon.cm"
+    },
+    {
+      "name": "Kent",
+      "lgg_hand": 1,
+      "lgg_cabin": 0,
+      "other_info": "patricia@spencer.ni"
+    },
+    {
+      "name": "Dana",
+      "lgg_hand": 0,
+      "lgg_cabin": 0,
+      "other_info": "marc@chung.um"
+    },
+    {
+      "name": "Gladys",
+      "lgg_hand": 0,
+      "lgg_cabin": 0,
+      "other_info": "dana@poole.wf"
+    },
+    {
+      "name": "Leon",
+      "lgg_hand": 1,
+      "lgg_cabin": 1,
+      "other_info": "joe@lyons.ca"
+    },
+    {
+      "name": "Kathy",
+      "lgg_hand": 1,
+      "lgg_cabin": 0,
+      "other_info": "christina@berger.pl"
+    }
+  ]
+}
