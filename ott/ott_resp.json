@@ -1,0 +1,296 @@
+{
+    "data": [
+      {
+        "id": "cat001",
+        "title": "English Movies",
+        "subtitle": "Top picks from Hollywood",
+        "videos": [
+          {
+            "id": "eng001",
+            "background": "inception_bg.png",
+            "thumbnail": "inception_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/Zeitgeist/Zeitgeist%202010_%20Year%20in%20Review.mp4",
+            "title": "Inception",
+            "tags": ["Sci-Fi", "2h 28m", "2010"],
+            "description": "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea. As layers of reality blur, danger becomes real."
+          },
+          {
+            "id": "eng002",
+            "background": "the_dark_knight_bg.png",
+            "thumbnail": "the_dark_knight_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+            "title": "The Dark Knight",
+            "tags": ["Action", "2h 32m", "2008"],
+            "description": "Batman faces the Joker, a criminal mastermind who plunges Gotham into chaos. As he pushes the limits of heroism, moral lines are crossed."
+          },
+          {
+            "id": "eng003",
+            "background": "interstellar_bg.png",
+            "thumbnail": "interstellar_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/April%20Fool's%202013/Introducing%20Gmail%20Blue.mp4",
+            "title": "Interstellar",
+            "tags": ["Adventure", "2h 49m", "2014"],
+            "description": "Earth is dying, and a team of explorers travel through a wormhole in search of a new home. Love and science collide across space and time."
+          },
+          {
+            "id": "eng004",
+            "background": "avatar_bg.png",
+            "thumbnail": "avatar_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/April%20Fool's%202013/Introducing%20Google%20Fiber%20to%20the%20Pole.mp4",
+            "title": "Avatar",
+            "tags": ["Fantasy", "2h 42m", "2009"],
+            "description": "A paraplegic Marine is dispatched to the moon Pandora on a unique mission, becoming torn between following orders and protecting the world he feels is his home."
+          },
+          {
+            "id": "eng005",
+            "background": "inception_bg.png",
+            "thumbnail": "inception_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/Zeitgeist/Zeitgeist%202010_%20Year%20in%20Review.mp4",
+            "title": "Inception",
+            "tags": ["Sci-Fi", "2h 28m", "2010"],
+            "description": "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea. As layers of reality blur, danger becomes real."
+          },
+          {
+            "id": "eng006",
+            "background": "the_dark_knight_bg.png",
+            "thumbnail": "the_dark_knight_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+            "title": "The Dark Knight",
+            "tags": ["Action", "2h 32m", "2008"],
+            "description": "Batman faces the Joker, a criminal mastermind who plunges Gotham into chaos. As he pushes the limits of heroism, moral lines are crossed."
+          },
+          {
+            "id": "eng007",
+            "background": "interstellar_bg.png",
+            "thumbnail": "interstellar_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/April%20Fool's%202013/Introducing%20Gmail%20Blue.mp4",
+            "title": "Interstellar",
+            "tags": ["Adventure", "2h 49m", "2014"],
+            "description": "Earth is dying, and a team of explorers travel through a wormhole in search of a new home. Love and science collide across space and time."
+          },
+          {
+            "id": "eng008",
+            "background": "avatar_bg.png",
+            "thumbnail": "avatar_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/April%20Fool's%202013/Introducing%20Google%20Fiber%20to%20the%20Pole.mp4",
+            "title": "Avatar",
+            "tags": ["Fantasy", "2h 42m", "2009"],
+            "description": "A paraplegic Marine is dispatched to the moon Pandora on a unique mission, becoming torn between following orders and protecting the world he feels is his home."
+          },
+          {
+            "id": "eng009",
+            "background": "inception_bg.png",
+            "thumbnail": "inception_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/Zeitgeist/Zeitgeist%202010_%20Year%20in%20Review.mp4",
+            "title": "Inception",
+            "tags": ["Sci-Fi", "2h 28m", "2010"],
+            "description": "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea. As layers of reality blur, danger becomes real."
+          },
+          {
+            "id": "eng010",
+            "background": "the_dark_knight_bg.png",
+            "thumbnail": "the_dark_knight_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+            "title": "The Dark Knight",
+            "tags": ["Action", "2h 32m", "2008"],
+            "description": "Batman faces the Joker, a criminal mastermind who plunges Gotham into chaos. As he pushes the limits of heroism, moral lines are crossed."
+          }
+        ]
+      },
+      {
+        "id": "cat002",
+        "title": "Hindi Movies",
+        "subtitle": "Blockbusters from Bollywood",
+        "videos": [
+          {
+            "id": "hin001",
+            "background": "3_idiots_bg.png",
+            "thumbnail": "3_idiots_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/Zeitgeist/Zeitgeist%202010_%20Year%20in%20Review.mp4",
+            "title": "3 Idiots",
+            "tags": ["Drama", "2h 50m", "2009"],
+            "description": "Three friends navigate the pressures of college life in a rigid educational system. A journey of self-discovery, friendship, and rebellion unfolds."
+          },
+          {
+            "id": "hin002",
+            "background": "dangal_bg.png",
+            "thumbnail": "dangal_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+            "title": "Dangal",
+            "tags": ["Biography", "2h 41m", "2016"],
+            "description": "A former wrestler trains his daughters to become world-class champions. Based on the true story of India's wrestling heroes."
+          },
+          {
+            "id": "hin003",
+            "background": "zindagi_na_milegi_dobara_bg.png",
+            "thumbnail": "zindagi_na_milegi_dobara_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/April%20Fool's%202013/Introducing%20Gmail%20Blue.mp4",
+            "title": "Zindagi Na Milegi Dobara",
+            "tags": ["Drama", "2h 33m", "2011"],
+            "description": "Three friends take a road trip across Spain that changes their lives. A heartfelt tale of adventure, love, and second chances."
+          },
+          {
+            "id": "hin004",
+            "background": "shershaah_bg.png",
+            "thumbnail": "shershaah_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/April%20Fool's%202013/Introducing%20Google%20Fiber%20to%20the%20Pole.mp4",
+            "title": "Shershaah",
+            "tags": ["War", "2h 15m", "2021"],
+            "description": "Based on the life of Captain Vikram Batra, this war drama showcases his bravery during the Kargil War and the love that fueled his courage."
+          },
+          {
+            "id": "hin005",
+            "background": "3_idiots_bg.png",
+            "thumbnail": "3_idiots_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/Zeitgeist/Zeitgeist%202010_%20Year%20in%20Review.mp4",
+            "title": "3 Idiots",
+            "tags": ["Drama", "2h 50m", "2009"],
+            "description": "Three friends navigate the pressures of college life in a rigid educational system. A journey of self-discovery, friendship, and rebellion unfolds."
+          },
+          {
+            "id": "hin006",
+            "background": "dangal_bg.png",
+            "thumbnail": "dangal_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+            "title": "Dangal",
+            "tags": ["Biography", "2h 41m", "2016"],
+            "description": "A former wrestler trains his daughters to become world-class champions. Based on the true story of India's wrestling heroes."
+          },
+          {
+            "id": "hin007",
+            "background": "zindagi_na_milegi_dobara_bg.png",
+            "thumbnail": "zindagi_na_milegi_dobara_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/April%20Fool's%202013/Introducing%20Gmail%20Blue.mp4",
+            "title": "Zindagi Na Milegi Dobara",
+            "tags": ["Drama", "2h 33m", "2011"],
+            "description": "Three friends take a road trip across Spain that changes their lives. A heartfelt tale of adventure, love, and second chances."
+          },
+          {
+            "id": "hin008",
+            "background": "shershaah_bg.png",
+            "thumbnail": "shershaah_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/April%20Fool's%202013/Introducing%20Google%20Fiber%20to%20the%20Pole.mp4",
+            "title": "Shershaah",
+            "tags": ["War", "2h 15m", "2021"],
+            "description": "Based on the life of Captain Vikram Batra, this war drama showcases his bravery during the Kargil War and the love that fueled his courage."
+          },
+          {
+            "id": "hin009",
+            "background": "3_idiots_bg.png",
+            "thumbnail": "3_idiots_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/Zeitgeist/Zeitgeist%202010_%20Year%20in%20Review.mp4",
+            "title": "3 Idiots",
+            "tags": ["Drama", "2h 50m", "2009"],
+            "description": "Three friends navigate the pressures of college life in a rigid educational system. A journey of self-discovery, friendship, and rebellion unfolds."
+          },
+          {
+            "id": "hin010",
+            "background": "dangal_bg.png",
+            "thumbnail": "dangal_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+            "title": "Dangal",
+            "tags": ["Biography", "2h 41m", "2016"],
+            "description": "A former wrestler trains his daughters to become world-class champions. Based on the true story of India's wrestling heroes."
+          }
+        ]
+      },
+      {
+        "id": "cat003",
+        "title": "Trending Now",
+        "subtitle": "What everyone's watching",
+        "videos": [
+          {
+            "id": "trn001",
+            "background": "oppenheimer_bg.png",
+            "thumbnail": "oppenheimer_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/Zeitgeist/Zeitgeist%202010_%20Year%20in%20Review.mp4",
+            "title": "Oppenheimer",
+            "tags": ["History", "3h 0m", "2023"],
+            "description": "The story of J. Robert Oppenheimer and the creation of the atomic bomb. A gripping look into ambition, consequence, and genius."
+          },
+          {
+            "id": "trn002",
+            "background": "pathaan_bg.png",
+            "thumbnail": "pathaan_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+            "title": "Pathaan",
+            "tags": ["Action", "2h 26m", "2023"],
+            "description": "An exiled RAW agent returns to stop a biological attack on India. Packed with action, drama, and patriotic fervor."
+          },
+          {
+            "id": "trn003",
+            "background": "everything_everywhere_all_at_once_bg.png",
+            "thumbnail": "everything_everywhere_all_at_once_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/April%20Fool's%202013/Introducing%20Gmail%20Blue.mp4",
+            "title": "Everything Everywhere All at Once",
+            "tags": ["Adventure", "2h 19m", "2022"],
+            "description": "A woman discovers she must connect with versions of herself across the multiverse to stop a cosmic threat. Surreal, emotional, and wildly original."
+          },
+          {
+            "id": "trn004",
+            "background": "jawan_bg.png",
+            "thumbnail": "jawan_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/April%20Fool's%202013/Introducing%20Google%20Fiber%20to%20the%20Pole.mp4",
+            "title": "Jawan",
+            "tags": ["Thriller", "2h 45m", "2023"],
+            "description": "A vigilante with a mysterious past takes on a corrupt system. A high-octane action film filled with twists and emotion."
+          },
+          {
+            "id": "trn005",
+            "background": "oppenheimer_bg.png",
+            "thumbnail": "oppenheimer_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/Zeitgeist/Zeitgeist%202010_%20Year%20in%20Review.mp4",
+            "title": "Oppenheimer",
+            "tags": ["History", "3h 0m", "2023"],
+            "description": "The story of J. Robert Oppenheimer and the creation of the atomic bomb. A gripping look into ambition, consequence, and genius."
+          },
+          {
+            "id": "trn006",
+            "background": "pathaan_bg.png",
+            "thumbnail": "pathaan_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+            "title": "Pathaan",
+            "tags": ["Action", "2h 26m", "2023"],
+            "description": "An exiled RAW agent returns to stop a biological attack on India. Packed with action, drama, and patriotic fervor."
+          },
+          {
+            "id": "trn007",
+            "background": "everything_everywhere_all_at_once_bg.png",
+            "thumbnail": "everything_everywhere_all_at_once_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/April%20Fool's%202013/Introducing%20Gmail%20Blue.mp4",
+            "title": "Everything Everywhere All at Once",
+            "tags": ["Adventure", "2h 19m", "2022"],
+            "description": "A woman discovers she must connect with versions of herself across the multiverse to stop a cosmic threat. Surreal, emotional, and wildly original."
+          },
+          {
+            "id": "trn008",
+            "background": "jawan_bg.png",
+            "thumbnail": "jawan_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/April%20Fool's%202013/Introducing%20Google%20Fiber%20to%20the%20Pole.mp4",
+            "title": "Jawan",
+            "tags": ["Thriller", "2h 45m", "2023"],
+            "description": "A vigilante with a mysterious past takes on a corrupt system. A high-octane action film filled with twists and emotion."
+          },
+          {
+            "id": "trn009",
+            "background": "oppenheimer_bg.png",
+            "thumbnail": "oppenheimer_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/Zeitgeist/Zeitgeist%202010_%20Year%20in%20Review.mp4",
+            "title": "Oppenheimer",
+            "tags": ["History", "3h 0m", "2023"],
+            "description": "The story of J. Robert Oppenheimer and the creation of the atomic bomb. A gripping look into ambition, consequence, and genius."
+          },
+          {
+            "id": "trn010",
+            "background": "pathaan_bg.png",
+            "thumbnail": "pathaan_thumb.png",
+            "url": "https://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+            "title": "Pathaan",
+            "tags": ["Action", "2h 26m", "2023"],
+            "description": "An exiled RAW agent returns to stop a biological attack on India. Packed with action, drama, and patriotic fervor."
+          }
+        ]
+      }
+    ]
+  }
+  
