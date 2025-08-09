@@ -1,1302 +1,1302 @@
 [
     {
-        "timestamp": "2022-05-23T10:19:30Z",
-        "category": [
-            "shopping",
-            "entertainment"
-        ],
-        "id": "01K26HRMF5H1WZKAWK4Q1VNX1C",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 7564.59,
-        "currency": "USD",
-        "payment_method": "upi",
-        "notes": "Phasellus in felis."
-    },
-    {
-        "timestamp": "2022-09-28T09:11:42Z",
+        "timestamp": "2025-07-19T17:56:15Z",
         "category": [
             "food",
-            "utilities"
-        ],
-        "id": "01K26HRMF7DZHW03G514KYPWXF",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 1620.25,
-        "currency": "INR",
-        "payment_method": "debit_card",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-01-11T06:04:09Z",
-        "category": [
-            "shopping",
             "entertainment"
         ],
-        "id": "01K26HRMF8SP3VNX0BG8QNAZX7",
+        "id": "01K26K4JKKGWFDDQDDGD4J8W8A",
         "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 5305.86,
+        "amount": 9757.33,
+        "currency": "USD",
+        "payment_method": "cash",
+        "notes": "grow enterprise communities"
+    },
+    {
+        "timestamp": "2025-07-29T04:39:21Z",
+        "category": [
+            "transportation",
+            "food"
+        ],
+        "id": "01K26K4JKN3MNMJAWMYHTN2JZM",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 2039.91,
         "currency": "INR",
         "payment_method": "debit_card",
-        "notes": null
+        "notes": "whiteboard virtual mindshare"
     },
     {
-        "timestamp": "2022-09-23T12:04:34Z",
+        "timestamp": "2025-07-07T21:59:55Z",
         "category": [
-            "entertainment",
-            "shopping"
-        ],
-        "id": "01K26HRMF90824NXDT2PZ6Q606",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 5066.39,
-        "currency": "INR",
-        "payment_method": "upi",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-02-06T07:26:14Z",
-        "category": [
-            "entertainment",
+            "shopping",
             "transportation"
         ],
-        "id": "01K26HRMFAF6QRWMCMXB0K1N6J",
+        "id": "01K26K4JKPNVMG18YHVT6QQT0N",
         "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 4162.07,
-        "currency": "INR",
-        "payment_method": "cash",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-07-02T09:45:37Z",
-        "category": [
-            "food",
-            "entertainment"
-        ],
-        "id": "01K26HRMFBH1R2XNTSXZBGXGPQ",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 4961.55,
-        "currency": "USD",
-        "payment_method": "debit_card",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-02-17T10:45:10Z",
-        "category": [
-            "food",
-            "utilities"
-        ],
-        "id": "01K26HRMFC5Q2Q1RBHFF3R0GN2",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 5129.94,
-        "currency": "INR",
-        "payment_method": "upi",
-        "notes": "Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam."
-    },
-    {
-        "timestamp": "2022-07-07T04:49:04Z",
-        "category": [
-            "utilities",
-            "food"
-        ],
-        "id": "01K26HRMFCX4KDKXVM20NVG1ZN",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 1939.77,
-        "currency": "USD",
-        "payment_method": "debit_card",
-        "notes": "Nulla mollis molestie lorem. Quisque ut erat."
-    },
-    {
-        "timestamp": "2022-05-09T10:29:53Z",
-        "category": [
-            "transportation",
-            "entertainment"
-        ],
-        "id": "01K26HRMFDSMSDN27SW39V0K6W",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 9311.33,
+        "amount": 6583.41,
         "currency": "INR",
         "payment_method": "debit_card",
         "notes": null
     },
     {
-        "timestamp": "2022-04-25T03:14:15Z",
-        "category": [
-            "entertainment",
-            "food"
-        ],
-        "id": "01K26HRMFEBG4KS4PEJAPWYD5D",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 6351.99,
-        "currency": "INR",
-        "payment_method": "credit_card",
-        "notes": "Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh."
-    },
-    {
-        "timestamp": "2022-07-30T11:15:44Z",
-        "category": [
-            "entertainment",
-            "shopping"
-        ],
-        "id": "01K26HRMFFVE6HFF9Z38GFFMFF",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 9453.4,
-        "currency": "USD",
-        "payment_method": "debit_card",
-        "notes": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim."
-    },
-    {
-        "timestamp": "2022-05-24T18:54:27Z",
-        "category": [
-            "utilities",
-            "food"
-        ],
-        "id": "01K26HRMFGDHQ52JF6B56V5VYY",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 2263.2,
-        "currency": "USD",
-        "payment_method": "debit_card",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-06-14T15:16:51Z",
-        "category": [
-            "food",
-            "shopping"
-        ],
-        "id": "01K26HRMFHGA639G3VRDJ62JGR",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 6419.13,
-        "currency": "USD",
-        "payment_method": "credit_card",
-        "notes": "Morbi a ipsum. Integer a nibh. In quis justo."
-    },
-    {
-        "timestamp": "2022-07-11T01:50:41Z",
-        "category": [
-            "shopping",
-            "entertainment"
-        ],
-        "id": "01K26HRMFJKBM4NAM9D7XMTN71",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 8354.08,
-        "currency": "USD",
-        "payment_method": "cash",
-        "notes": "Donec posuere metus vitae ipsum. Aliquam non mauris."
-    },
-    {
-        "timestamp": "2022-09-17T23:51:31Z",
-        "category": [
-            "transportation",
-            "utilities"
-        ],
-        "id": "01K26HRMFKHQCF5EE9MPTGJ3SQ",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 7762.79,
-        "currency": "USD",
-        "payment_method": "credit_card",
-        "notes": "Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
-    },
-    {
-        "timestamp": "2022-02-17T00:17:36Z",
-        "category": [
-            "entertainment",
-            "food"
-        ],
-        "id": "01K26HRMFM5WARR4YWVCFEYTYR",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 3863.59,
-        "currency": "USD",
-        "payment_method": "debit_card",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-01-15T02:43:02Z",
-        "category": [
-            "transportation",
-            "shopping"
-        ],
-        "id": "01K26HRMFNJZ5PWMNVBNRYXNGK",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 1893.93,
-        "currency": "INR",
-        "payment_method": "debit_card",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-12-18T04:54:06Z",
+        "timestamp": "2025-07-14T00:33:07Z",
         "category": [
             "utilities",
             "shopping"
         ],
-        "id": "01K26HRMFPF2YPGZJWS6F7KYQK",
+        "id": "01K26K4JKQXEBPESKB4MAE1SAY",
         "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 4087.03,
+        "amount": 1039.61,
         "currency": "USD",
-        "payment_method": "cash",
-        "notes": "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis."
+        "payment_method": "credit_card",
+        "notes": "embrace back-end ROI"
     },
     {
-        "timestamp": "2022-06-07T22:56:51Z",
+        "timestamp": "2025-07-05T22:52:11Z",
         "category": [
-            "transportation",
-            "food"
-        ],
-        "id": "01K26HRMFQZCH1ECGTH1TSYHDE",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 8597.13,
-        "currency": "INR",
-        "payment_method": "upi",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-07-22T11:17:47Z",
-        "category": [
-            "entertainment",
+            "utilities",
             "transportation"
         ],
-        "id": "01K26HRMFQC2YZ90ETHENHJ2KB",
+        "id": "01K26K4JKR3V7VHDVV8J1N34SQ",
         "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 4075.38,
-        "currency": "INR",
-        "payment_method": "upi",
-        "notes": "Nulla suscipit ligula in lacus."
-    },
-    {
-        "timestamp": "2022-12-18T10:12:30Z",
-        "category": [
-            "shopping",
-            "utilities"
-        ],
-        "id": "01K26HRMFR8C6XAKNQ1REF9M51",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 2009.61,
-        "currency": "INR",
-        "payment_method": "credit_card",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-12-27T20:48:56Z",
-        "category": [
-            "transportation",
-            "food"
-        ],
-        "id": "01K26HRMFS5RAQ20J4MP48JD7Q",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 8407.51,
-        "currency": "USD",
-        "payment_method": "cash",
-        "notes": "Quisque porta volutpat erat."
-    },
-    {
-        "timestamp": "2022-10-26T03:39:50Z",
-        "category": [
-            "food",
-            "shopping"
-        ],
-        "id": "01K26HRMFVSWDZDTZS6Z12VS40",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 5110.47,
-        "currency": "INR",
-        "payment_method": "debit_card",
-        "notes": "Nullam varius."
-    },
-    {
-        "timestamp": "2022-03-02T23:49:10Z",
-        "category": [
-            "utilities",
-            "entertainment"
-        ],
-        "id": "01K26HRMFWA51WZGP781W58Z3Q",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 5279.71,
-        "currency": "INR",
-        "payment_method": "upi",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-06-17T20:20:25Z",
-        "category": [
-            "utilities",
-            "food"
-        ],
-        "id": "01K26HRMFXEHX668JG3PDBQB13",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 8386.16,
+        "amount": 5401.75,
         "currency": "USD",
         "payment_method": "credit_card",
-        "notes": "Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+        "notes": "exploit strategic models"
     },
     {
-        "timestamp": "2022-04-29T16:10:16Z",
-        "category": [
-            "transportation",
-            "food"
-        ],
-        "id": "01K26HRMFYGJE4Z7B4EAVD3W8N",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 5127.75,
-        "currency": "INR",
-        "payment_method": "cash",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-08-30T00:47:20Z",
-        "category": [
-            "food",
-            "shopping"
-        ],
-        "id": "01K26HRMFZYRWXEQ0P6F8PZE3G",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 1725.02,
-        "currency": "INR",
-        "payment_method": "credit_card",
-        "notes": "Integer ac neque."
-    },
-    {
-        "timestamp": "2022-03-06T10:23:17Z",
-        "category": [
-            "shopping",
-            "utilities"
-        ],
-        "id": "01K26HRMG0B261F5DEHVRHX01B",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 814.56,
-        "currency": "USD",
-        "payment_method": "cash",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-08-28T07:27:43Z",
-        "category": [
-            "food",
-            "shopping"
-        ],
-        "id": "01K26HRMG122BAQFQ4SZHFHPN5",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 8430.91,
-        "currency": "USD",
-        "payment_method": "debit_card",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-05-20T16:32:15Z",
-        "category": [
-            "shopping",
-            "entertainment"
-        ],
-        "id": "01K26HRMG2WXVP63ZCJMWN3N8E",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 8994.31,
-        "currency": "USD",
-        "payment_method": "debit_card",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-12-26T10:47:23Z",
-        "category": [
-            "transportation",
-            "entertainment"
-        ],
-        "id": "01K26HRMG3GGBXTKQY9GE25K9W",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 8637.49,
-        "currency": "USD",
-        "payment_method": "debit_card",
-        "notes": "Duis bibendum. Morbi non quam nec dui luctus rutrum."
-    },
-    {
-        "timestamp": "2022-01-10T07:12:02Z",
-        "category": [
-            "transportation",
-            "entertainment"
-        ],
-        "id": "01K26HRMG4C4XAY8E2J94XFZK2",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 4778.37,
-        "currency": "INR",
-        "payment_method": "credit_card",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-06-26T01:44:42Z",
-        "category": [
-            "transportation",
-            "shopping"
-        ],
-        "id": "01K26HRMG4MZ679298PD1J7V87",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 967.88,
-        "currency": "INR",
-        "payment_method": "upi",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-02-08T07:06:21Z",
-        "category": [
-            "transportation",
-            "shopping"
-        ],
-        "id": "01K26HRMG5JK9SQ4AMVYCGZ4JJ",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 5689.37,
-        "currency": "USD",
-        "payment_method": "upi",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-01-07T02:40:57Z",
-        "category": [
-            "entertainment",
-            "food"
-        ],
-        "id": "01K26HRMG6X5BTYW1PNGXZ0PFH",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 2884.7,
-        "currency": "INR",
-        "payment_method": "cash",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-03-17T16:41:43Z",
+        "timestamp": "2025-07-04T05:23:50Z",
         "category": [
             "food",
             "utilities"
         ],
-        "id": "01K26HRMG7JB5ANS4WZHK5M02G",
+        "id": "01K26K4JKSRKG0P4PPHRB9H3XN",
         "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 829.11,
-        "currency": "INR",
-        "payment_method": "credit_card",
-        "notes": "Nullam varius. Nulla facilisi."
-    },
-    {
-        "timestamp": "2022-06-03T04:31:20Z",
-        "category": [
-            "utilities",
-            "transportation"
-        ],
-        "id": "01K26HRMG8YGA32C65JAWS91AT",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 6120.53,
+        "amount": 2658.09,
         "currency": "USD",
         "payment_method": "debit_card",
-        "notes": null
+        "notes": "integrate vertical users"
     },
     {
-        "timestamp": "2022-08-05T18:34:35Z",
-        "category": [
-            "entertainment",
-            "food"
-        ],
-        "id": "01K26HRMG9MRANKCBJHNB02EXW",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 3768.17,
-        "currency": "INR",
-        "payment_method": "upi",
-        "notes": "Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo."
-    },
-    {
-        "timestamp": "2022-04-17T01:04:39Z",
-        "category": [
-            "shopping",
-            "transportation"
-        ],
-        "id": "01K26HRMGA6EPE0VH1RJKPK8YK",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 3378.96,
-        "currency": "INR",
-        "payment_method": "cash",
-        "notes": "Nullam varius. Nulla facilisi."
-    },
-    {
-        "timestamp": "2022-06-01T12:41:02Z",
-        "category": [
-            "food",
-            "transportation"
-        ],
-        "id": "01K26HRMGB5M186AJNBANV1Y1D",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 1572.19,
-        "currency": "INR",
-        "payment_method": "credit_card",
-        "notes": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique."
-    },
-    {
-        "timestamp": "2022-01-30T01:49:18Z",
-        "category": [
-            "utilities",
-            "shopping"
-        ],
-        "id": "01K26HRMGCWW70E1EYTRAC2YA8",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 8468.22,
-        "currency": "USD",
-        "payment_method": "credit_card",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-08-24T19:22:50Z",
-        "category": [
-            "utilities",
-            "shopping"
-        ],
-        "id": "01K26HRMGDN1KKT643WGD3WM80",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 8464.01,
-        "currency": "USD",
-        "payment_method": "upi",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-08-31T17:03:03Z",
-        "category": [
-            "transportation",
-            "utilities"
-        ],
-        "id": "01K26HRMGET0N1BG2KMTFBPBS5",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 3324.07,
-        "currency": "USD",
-        "payment_method": "credit_card",
-        "notes": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros."
-    },
-    {
-        "timestamp": "2022-11-08T06:01:15Z",
-        "category": [
-            "utilities",
-            "shopping"
-        ],
-        "id": "01K26HRMGFQVMF5H48FHDV5QAC",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 7907.83,
-        "currency": "USD",
-        "payment_method": "debit_card",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-05-05T12:03:44Z",
-        "category": [
-            "utilities",
-            "entertainment"
-        ],
-        "id": "01K26HRMGF3ZN98Y9QY6N2591N",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 3608.35,
-        "currency": "INR",
-        "payment_method": "credit_card",
-        "notes": "In eleifend quam a odio. In hac habitasse platea dictumst."
-    },
-    {
-        "timestamp": "2022-03-16T11:49:13Z",
-        "category": [
-            "shopping",
-            "food"
-        ],
-        "id": "01K26HRMGGP8MX0ZV8N09YFB47",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 1498.72,
-        "currency": "INR",
-        "payment_method": "upi",
-        "notes": "Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
-    },
-    {
-        "timestamp": "2022-09-14T04:37:54Z",
-        "category": [
-            "food",
-            "shopping"
-        ],
-        "id": "01K26HRMGH7PDAWAPDTGNJ6G99",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 8392.05,
-        "currency": "USD",
-        "payment_method": "debit_card",
-        "notes": "Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis."
-    },
-    {
-        "timestamp": "2022-04-19T11:44:22Z",
-        "category": [
-            "food",
-            "shopping"
-        ],
-        "id": "01K26HRMGJQWWQ686KZKMS4MTX",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 4739.86,
-        "currency": "INR",
-        "payment_method": "debit_card",
-        "notes": "Nunc purus. Phasellus in felis. Donec semper sapien a libero."
-    },
-    {
-        "timestamp": "2022-09-15T17:41:27Z",
-        "category": [
-            "shopping",
-            "transportation"
-        ],
-        "id": "01K26HRMGKBGKEP7TTFFWS2ZAF",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 6450.88,
-        "currency": "INR",
-        "payment_method": "credit_card",
-        "notes": "Proin eu mi. Nulla ac enim."
-    },
-    {
-        "timestamp": "2022-02-08T02:37:02Z",
-        "category": [
-            "shopping",
-            "food"
-        ],
-        "id": "01K26HRMGM9EX0YR3GSCNPBFMA",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 9853.2,
-        "currency": "INR",
-        "payment_method": "debit_card",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-08-20T18:23:49Z",
-        "category": [
-            "shopping",
-            "food"
-        ],
-        "id": "01K26HRMGNJ7WREZCSW8FDCC34",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 3118.29,
-        "currency": "USD",
-        "payment_method": "upi",
-        "notes": "Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros."
-    },
-    {
-        "timestamp": "2022-07-21T15:21:53Z",
+        "timestamp": "2025-07-08T02:33:04Z",
         "category": [
             "food",
             "utilities"
         ],
-        "id": "01K26HRMGPA3FZA9WPXSC99WPP",
+        "id": "01K26K4JKTXHSFC750MJN2CR6X",
         "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 652.03,
-        "currency": "USD",
-        "payment_method": "debit_card",
-        "notes": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi."
-    },
-    {
-        "timestamp": "2022-06-15T03:31:01Z",
-        "category": [
-            "transportation",
-            "shopping"
-        ],
-        "id": "01K26HRMGQKGHN2YDW9D6V4SAA",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 8423.17,
+        "amount": 8617.53,
         "currency": "INR",
         "payment_method": "upi",
         "notes": null
     },
     {
-        "timestamp": "2022-02-14T19:11:56Z",
+        "timestamp": "2025-07-14T01:24:22Z",
         "category": [
             "food",
-            "transportation"
-        ],
-        "id": "01K26HRMGR2SK9EXEDNF1XPN61",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 7552.27,
-        "currency": "USD",
-        "payment_method": "cash",
-        "notes": "Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam."
-    },
-    {
-        "timestamp": "2022-02-06T10:14:40Z",
-        "category": [
-            "transportation",
             "shopping"
         ],
-        "id": "01K26HRMGS6RCWDJEJ0GQYDHNY",
+        "id": "01K26K4JKV2CYAY5JJJ3TSXMVV",
         "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 4657.14,
-        "currency": "INR",
-        "payment_method": "credit_card",
-        "notes": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci."
-    },
-    {
-        "timestamp": "2022-03-29T22:05:34Z",
-        "category": [
-            "food",
-            "entertainment"
-        ],
-        "id": "01K26HRMGT6NHYZYKCMXX77W03",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 4684.85,
-        "currency": "USD",
-        "payment_method": "debit_card",
-        "notes": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
-    },
-    {
-        "timestamp": "2022-11-05T18:47:03Z",
-        "category": [
-            "utilities",
-            "food"
-        ],
-        "id": "01K26HRMGT0ZXA6E9BMQEZ02F5",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 2122.68,
-        "currency": "INR",
-        "payment_method": "upi",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-09-24T07:27:48Z",
-        "category": [
-            "entertainment",
-            "transportation"
-        ],
-        "id": "01K26HRMGVGFJ1KRTGW98A62N4",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 5781.46,
+        "amount": 7587.79,
         "currency": "INR",
         "payment_method": "credit_card",
         "notes": null
     },
     {
-        "timestamp": "2022-03-15T18:02:58Z",
-        "category": [
-            "food",
-            "entertainment"
-        ],
-        "id": "01K26HRMGW5BHS39S5NSZRK3FW",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 6169.12,
-        "currency": "INR",
-        "payment_method": "cash",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-01-09T05:33:32Z",
-        "category": [
-            "entertainment",
-            "food"
-        ],
-        "id": "01K26HRMGXRB9Q1M311D0SCAEJ",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 7821.33,
-        "currency": "INR",
-        "payment_method": "cash",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-06-25T02:37:56Z",
-        "category": [
-            "food",
-            "shopping"
-        ],
-        "id": "01K26HRMGY1ARZC9Q27X8JX5FT",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 6332.57,
-        "currency": "USD",
-        "payment_method": "credit_card",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-06-23T04:26:41Z",
-        "category": [
-            "entertainment",
-            "transportation"
-        ],
-        "id": "01K26HRMGZW6J0GQDF45MC59EJ",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 3928.42,
-        "currency": "USD",
-        "payment_method": "upi",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-02-26T08:05:37Z",
-        "category": [
-            "food",
-            "entertainment"
-        ],
-        "id": "01K26HRMH00C5EVS9543HR6JX5",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 2380.19,
-        "currency": "INR",
-        "payment_method": "debit_card",
-        "notes": "Fusce consequat. Nulla nisl. Nunc nisl."
-    },
-    {
-        "timestamp": "2022-02-12T17:34:31Z",
+        "timestamp": "2025-08-04T22:28:33Z",
         "category": [
             "transportation",
             "entertainment"
         ],
-        "id": "01K26HRMH26XCSC2DX09Y9HHES",
+        "id": "01K26K4JKVXZ0Z2MH1BZJTWCAR",
         "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 3798.45,
-        "currency": "USD",
-        "payment_method": "upi",
-        "notes": "Ut tellus. Nulla ut erat id mauris vulputate elementum."
-    },
-    {
-        "timestamp": "2022-05-30T09:57:28Z",
-        "category": [
-            "utilities",
-            "entertainment"
-        ],
-        "id": "01K26HRMH4P63Y3PYMSRMNM5SS",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 1335.07,
-        "currency": "USD",
-        "payment_method": "upi",
-        "notes": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt."
-    },
-    {
-        "timestamp": "2022-03-31T16:55:06Z",
-        "category": [
-            "shopping",
-            "utilities"
-        ],
-        "id": "01K26HRMH5HTJ2YZV4T832QKSV",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 8078.69,
+        "amount": 3448.02,
         "currency": "INR",
-        "payment_method": "debit_card",
+        "payment_method": "cash",
+        "notes": "whiteboard 24/365 e-markets"
+    },
+    {
+        "timestamp": "2025-07-20T14:12:49Z",
+        "category": [
+            "food",
+            "transportation"
+        ],
+        "id": "01K26K4JKWFYCCM34XDW8NMEHE",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 4011.93,
+        "currency": "INR",
+        "payment_method": "upi",
         "notes": null
     },
     {
-        "timestamp": "2022-12-30T04:47:41Z",
+        "timestamp": "2025-07-08T20:03:41Z",
         "category": [
             "shopping",
             "transportation"
         ],
-        "id": "01K26HRMH6GAF9F33PC5P29G2F",
+        "id": "01K26K4JKXY2DXD2SZGY56B13K",
         "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 6023.71,
-        "currency": "USD",
-        "payment_method": "upi",
-        "notes": "Nunc nisl."
-    },
-    {
-        "timestamp": "2022-12-02T17:52:25Z",
-        "category": [
-            "transportation",
-            "entertainment"
-        ],
-        "id": "01K26HRMH7FW3AAV6N3VC02ZRA",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 5375.16,
+        "amount": 7392.71,
         "currency": "INR",
-        "payment_method": "upi",
-        "notes": null
+        "payment_method": "debit_card",
+        "notes": "integrate compelling markets"
     },
     {
-        "timestamp": "2022-09-25T10:41:28Z",
-        "category": [
-            "food",
-            "utilities"
-        ],
-        "id": "01K26HRMH8DN1XSE0Y51F02XF0",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 9414.79,
-        "currency": "USD",
-        "payment_method": "credit_card",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-02-08T14:24:06Z",
-        "category": [
-            "food",
-            "transportation"
-        ],
-        "id": "01K26HRMH9PM7FSN8K36JASMQ2",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 3383.85,
-        "currency": "USD",
-        "payment_method": "cash",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-09-08T01:50:59Z",
-        "category": [
-            "food",
-            "utilities"
-        ],
-        "id": "01K26HRMHA2W031ZEHKHS9Z1EC",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 1926.62,
-        "currency": "USD",
-        "payment_method": "credit_card",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-02-09T10:05:13Z",
+        "timestamp": "2025-07-11T02:30:25Z",
         "category": [
             "entertainment",
             "utilities"
         ],
-        "id": "01K26HRMHBQMPDQXEZAA9BK1DC",
+        "id": "01K26K4JKYW97J5NKH2X16E25B",
         "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 2522.13,
+        "amount": 4557.42,
         "currency": "USD",
         "payment_method": "cash",
-        "notes": null
+        "notes": "envisioneer impactful ROI"
     },
     {
-        "timestamp": "2022-09-12T06:08:53Z",
-        "category": [
-            "shopping",
-            "transportation"
-        ],
-        "id": "01K26HRMHCYWVV5EDV4VRHBE2M",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 7933.81,
-        "currency": "USD",
-        "payment_method": "cash",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-09-06T05:23:05Z",
-        "category": [
-            "entertainment",
-            "shopping"
-        ],
-        "id": "01K26HRMHD80SW31EN07M6HEY8",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 6464.65,
-        "currency": "USD",
-        "payment_method": "upi",
-        "notes": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus."
-    },
-    {
-        "timestamp": "2022-12-01T18:20:37Z",
-        "category": [
-            "food",
-            "utilities"
-        ],
-        "id": "01K26HRMHES97R9JJFWT5WZEPZ",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 1631.16,
-        "currency": "USD",
-        "payment_method": "upi",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-03-22T11:29:31Z",
+        "timestamp": "2025-07-11T10:59:17Z",
         "category": [
             "transportation",
             "entertainment"
         ],
-        "id": "01K26HRMHF2S135B6JGKVPWA3M",
+        "id": "01K26K4JKZ6QTSZ6KPC96FWHDE",
         "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 196.03,
-        "currency": "INR",
+        "amount": 834.98,
+        "currency": "USD",
         "payment_method": "upi",
-        "notes": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque."
+        "notes": "drive 24/365 platforms"
     },
     {
-        "timestamp": "2022-06-27T00:27:44Z",
+        "timestamp": "2025-07-03T05:04:45Z",
         "category": [
-            "utilities",
+            "entertainment",
             "transportation"
         ],
-        "id": "01K26HRMHHDY7MSY2YGZSJXS7A",
+        "id": "01K26K4JM00C08ZAB33H0EVNPQ",
         "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 2829.42,
+        "amount": 5590.75,
+        "currency": "USD",
+        "payment_method": "cash",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-03T00:15:04Z",
+        "category": [
+            "entertainment",
+            "food"
+        ],
+        "id": "01K26K4JM1NV9KR5KPYA5APBYH",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 4526.23,
         "currency": "INR",
         "payment_method": "debit_card",
         "notes": null
     },
     {
-        "timestamp": "2022-12-24T19:46:48Z",
-        "category": [
-            "transportation",
-            "utilities"
-        ],
-        "id": "01K26HRMHJPE8S0SHZKR3041NN",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 9804.92,
-        "currency": "INR",
-        "payment_method": "upi",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-03-22T22:03:40Z",
-        "category": [
-            "entertainment",
-            "utilities"
-        ],
-        "id": "01K26HRMHKCA7MJPGG8YJNE9FC",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 7743.86,
-        "currency": "INR",
-        "payment_method": "cash",
-        "notes": "Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc."
-    },
-    {
-        "timestamp": "2022-02-10T16:13:25Z",
-        "category": [
-            "shopping",
-            "utilities"
-        ],
-        "id": "01K26HRMHME3JDV1N5NVW8K424",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 6463.09,
-        "currency": "USD",
-        "payment_method": "cash",
-        "notes": "Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
-    },
-    {
-        "timestamp": "2022-01-31T14:57:07Z",
-        "category": [
-            "shopping",
-            "transportation"
-        ],
-        "id": "01K26HRMHPYSPA0KS1QQPKHQJB",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 4461.08,
-        "currency": "USD",
-        "payment_method": "cash",
-        "notes": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
-    },
-    {
-        "timestamp": "2022-08-20T01:42:46Z",
-        "category": [
-            "food",
-            "utilities"
-        ],
-        "id": "01K26HRMHQ7J1G8D2NB3P65EXV",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 6777.01,
-        "currency": "INR",
-        "payment_method": "credit_card",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-07-09T18:03:04Z",
+        "timestamp": "2025-07-20T19:27:18Z",
         "category": [
             "utilities",
             "transportation"
         ],
-        "id": "01K26HRMHR8HAX671F5YWN08HY",
+        "id": "01K26K4JM22SMMC1KEVARVZBM6",
         "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 3951.42,
+        "amount": 2844.83,
         "currency": "INR",
-        "payment_method": "credit_card",
-        "notes": null
+        "payment_method": "cash",
+        "notes": "utilize seamless metrics"
     },
     {
-        "timestamp": "2022-05-04T01:55:46Z",
-        "category": [
-            "entertainment",
-            "food"
-        ],
-        "id": "01K26HRMHSW6QNQYHVWBYRXS1V",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 5912.58,
-        "currency": "INR",
-        "payment_method": "debit_card",
-        "notes": "Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla."
-    },
-    {
-        "timestamp": "2022-05-15T19:43:12Z",
+        "timestamp": "2025-07-26T03:15:29Z",
         "category": [
             "utilities",
-            "food"
-        ],
-        "id": "01K26HRMHTB6K06NZ97MP6WTS4",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 2516.89,
-        "currency": "USD",
-        "payment_method": "upi",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-01-26T20:22:23Z",
-        "category": [
-            "transportation",
-            "entertainment"
-        ],
-        "id": "01K26HRMHWWAWHEYPNM89HZB32",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 9740.73,
-        "currency": "USD",
-        "payment_method": "credit_card",
-        "notes": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
-    },
-    {
-        "timestamp": "2022-11-15T03:10:26Z",
-        "category": [
-            "food",
             "shopping"
         ],
-        "id": "01K26HRMHXGGRCJ1HP6Z60A432",
+        "id": "01K26K4JM3VSKYJ7T1JQ1AP1TM",
         "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 6948.69,
-        "currency": "USD",
+        "amount": 741.17,
+        "currency": "INR",
         "payment_method": "debit_card",
         "notes": null
     },
     {
-        "timestamp": "2022-11-23T05:50:11Z",
-        "category": [
-            "food",
-            "entertainment"
-        ],
-        "id": "01K26HRMHZ5E7BKP4K83DNR0DX",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 3037.1,
-        "currency": "INR",
-        "payment_method": "credit_card",
-        "notes": null
-    },
-    {
-        "timestamp": "2022-04-28T20:11:51Z",
-        "category": [
-            "shopping",
-            "food"
-        ],
-        "id": "01K26HRMHZ0QD931PM3JZ02X37",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 1813.81,
-        "currency": "USD",
-        "payment_method": "cash",
-        "notes": "Nullam sit amet turpis elementum ligula vehicula consequat."
-    },
-    {
-        "timestamp": "2022-03-10T03:06:16Z",
-        "category": [
-            "transportation",
-            "shopping"
-        ],
-        "id": "01K26HRMJ05Q7YCF3MQDGNYC3N",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 6425.28,
-        "currency": "USD",
-        "payment_method": "cash",
-        "notes": "Etiam vel augue. Vestibulum rutrum rutrum neque."
-    },
-    {
-        "timestamp": "2022-04-03T12:56:29Z",
-        "category": [
-            "food",
-            "transportation"
-        ],
-        "id": "01K26HRMJ1MH15VMRAH24FEWS1",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 1214.1,
-        "currency": "INR",
-        "payment_method": "debit_card",
-        "notes": "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue."
-    },
-    {
-        "timestamp": "2022-06-18T21:38:33Z",
-        "category": [
-            "utilities",
-            "transportation"
-        ],
-        "id": "01K26HRMJ2XF9PGWYEA9Q3G3QJ",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 9996.37,
-        "currency": "USD",
-        "payment_method": "credit_card",
-        "notes": "Maecenas ut massa quis augue luctus tincidunt."
-    },
-    {
-        "timestamp": "2022-12-25T07:12:47Z",
+        "timestamp": "2025-08-01T04:15:56Z",
         "category": [
             "entertainment",
             "transportation"
         ],
-        "id": "01K26HRMJ34XMNR1ZCN3M5AVEM",
+        "id": "01K26K4JM3P1EZFDVV2PY6CZ06",
         "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 6582.75,
+        "amount": 962.09,
         "currency": "INR",
-        "payment_method": "cash",
-        "notes": null
+        "payment_method": "credit_card",
+        "notes": "grow end-to-end deliverables"
     },
     {
-        "timestamp": "2022-01-30T23:12:56Z",
-        "category": [
-            "transportation",
-            "utilities"
-        ],
-        "id": "01K26HRMJ4DM72C0ZCFVMBYXW1",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 2948.04,
-        "currency": "INR",
-        "payment_method": "debit_card",
-        "notes": "Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis."
-    },
-    {
-        "timestamp": "2022-06-30T00:31:00Z",
+        "timestamp": "2025-07-02T23:42:26Z",
         "category": [
             "shopping",
             "entertainment"
         ],
-        "id": "01K26HRMJ62ST2S3A5TC0PKAX3",
+        "id": "01K26K4JM4075YV923N9B4S9RA",
         "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 6358.94,
+        "amount": 7978.54,
         "currency": "INR",
-        "payment_method": "upi",
-        "notes": "Curabitur at ipsum ac tellus semper interdum."
-    },
-    {
-        "timestamp": "2022-08-13T09:14:27Z",
-        "category": [
-            "shopping",
-            "food"
-        ],
-        "id": "01K26HRMJ73QJCZJE9QHJB3V8D",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 1169.15,
-        "currency": "INR",
-        "payment_method": "upi",
+        "payment_method": "credit_card",
         "notes": null
     },
     {
-        "timestamp": "2022-03-17T18:03:34Z",
-        "category": [
-            "shopping",
-            "food"
-        ],
-        "id": "01K26HRMJ8HYPD9WS4HFSW1S9V",
-        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 5642.75,
-        "currency": "USD",
-        "payment_method": "upi",
-        "notes": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet."
-    },
-    {
-        "timestamp": "2022-03-30T10:06:47Z",
+        "timestamp": "2025-08-08T04:57:30Z",
         "category": [
             "food",
-            "shopping"
+            "utilities"
         ],
-        "id": "01K26HRMJ9FF0YXYPCCRGD59CV",
+        "id": "01K26K4JM5NQS07JKJR84VJJY0",
         "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 7561.21,
+        "amount": 7480.11,
         "currency": "INR",
-        "payment_method": "credit_card",
+        "payment_method": "debit_card",
         "notes": null
     },
     {
-        "timestamp": "2022-06-09T20:02:42Z",
+        "timestamp": "2025-07-01T07:49:09Z",
         "category": [
-            "entertainment",
-            "shopping"
+            "shopping",
+            "entertainment"
         ],
-        "id": "01K26HRMJAAYFJJSJD0Z1BQKM0",
+        "id": "01K26K4JM6M1WP11W24ZYC82SA",
         "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 7901.24,
-        "currency": "INR",
-        "payment_method": "credit_card",
-        "notes": "In est risus, auctor sed, tristique in, tempus sit amet, sem."
+        "amount": 7628.37,
+        "currency": "USD",
+        "payment_method": "upi",
+        "notes": null
     },
     {
-        "timestamp": "2022-06-19T17:45:33Z",
+        "timestamp": "2025-07-28T17:49:31Z",
+        "category": [
+            "transportation",
+            "shopping"
+        ],
+        "id": "01K26K4JM7MWD153TXB0SC17T4",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 578.63,
+        "currency": "USD",
+        "payment_method": "cash",
+        "notes": "transform integrated applications"
+    },
+    {
+        "timestamp": "2025-07-29T13:31:33Z",
         "category": [
             "shopping",
             "utilities"
         ],
-        "id": "01K26HRMJBTY410CR173ZWGV20",
+        "id": "01K26K4JM8RFTA1YSRHQ772RAS",
         "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
-        "amount": 2954.46,
+        "amount": 2804.18,
+        "currency": "INR",
+        "payment_method": "credit_card",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-25T15:12:48Z",
+        "category": [
+            "shopping",
+            "entertainment"
+        ],
+        "id": "01K26K4JM8DJTY3KG83FDEHXK8",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 617.3,
+        "currency": "USD",
+        "payment_method": "upi",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-29T00:17:40Z",
+        "category": [
+            "transportation",
+            "shopping"
+        ],
+        "id": "01K26K4JM9D6JXW2VNFKW59XZX",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 9443.99,
+        "currency": "INR",
+        "payment_method": "debit_card",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-31T11:22:33Z",
+        "category": [
+            "food",
+            "shopping"
+        ],
+        "id": "01K26K4JMA6WC20YS188K48Z99",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 8857.09,
+        "currency": "USD",
+        "payment_method": "upi",
+        "notes": "brand impactful functionalities"
+    },
+    {
+        "timestamp": "2025-07-30T13:16:21Z",
+        "category": [
+            "transportation",
+            "food"
+        ],
+        "id": "01K26K4JMBF9P3EFZ19GZM6PQ1",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 5159.65,
         "currency": "USD",
         "payment_method": "debit_card",
         "notes": null
+    },
+    {
+        "timestamp": "2025-08-02T14:59:12Z",
+        "category": [
+            "transportation",
+            "utilities"
+        ],
+        "id": "01K26K4JMC9EVJBF0JK597T13H",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 4655.89,
+        "currency": "INR",
+        "payment_method": "upi",
+        "notes": "iterate cutting-edge applications"
+    },
+    {
+        "timestamp": "2025-08-06T22:28:53Z",
+        "category": [
+            "transportation",
+            "food"
+        ],
+        "id": "01K26K4JMDXJ0T04JQ5PWC2RDG",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 5189.81,
+        "currency": "INR",
+        "payment_method": "credit_card",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-08-01T15:09:44Z",
+        "category": [
+            "utilities",
+            "transportation"
+        ],
+        "id": "01K26K4JMDEGC70FCKJXVBKJCQ",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 2224.32,
+        "currency": "INR",
+        "payment_method": "cash",
+        "notes": "drive next-generation web-readiness"
+    },
+    {
+        "timestamp": "2025-07-28T06:34:32Z",
+        "category": [
+            "entertainment",
+            "food"
+        ],
+        "id": "01K26K4JME7TM0MYWATV432PN7",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 7654.43,
+        "currency": "INR",
+        "payment_method": "upi",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-17T22:30:39Z",
+        "category": [
+            "utilities",
+            "entertainment"
+        ],
+        "id": "01K26K4JMFBN5VMV4C4CP9853W",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 1274.84,
+        "currency": "INR",
+        "payment_method": "upi",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-22T18:34:46Z",
+        "category": [
+            "entertainment",
+            "utilities"
+        ],
+        "id": "01K26K4JMG7JBXBAF0VPMNDDY2",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 2929.1,
+        "currency": "INR",
+        "payment_method": "credit_card",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-12T21:36:19Z",
+        "category": [
+            "food",
+            "transportation"
+        ],
+        "id": "01K26K4JMH6DSXWQGVF1MH7XPR",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 6698.11,
+        "currency": "USD",
+        "payment_method": "upi",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-18T21:53:49Z",
+        "category": [
+            "food",
+            "utilities"
+        ],
+        "id": "01K26K4JMJVJ8TKY28QS57AMRD",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 8307.18,
+        "currency": "USD",
+        "payment_method": "cash",
+        "notes": "recontextualize killer experiences"
+    },
+    {
+        "timestamp": "2025-07-15T19:23:36Z",
+        "category": [
+            "shopping",
+            "transportation"
+        ],
+        "id": "01K26K4JMK0JSDEXYBZ4ZFBYJD",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 9993.8,
+        "currency": "INR",
+        "payment_method": "cash",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-30T02:23:15Z",
+        "category": [
+            "entertainment",
+            "shopping"
+        ],
+        "id": "01K26K4JMK14FYANT8VNQ2H33N",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 6004.01,
+        "currency": "USD",
+        "payment_method": "debit_card",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-14T05:09:49Z",
+        "category": [
+            "food",
+            "entertainment"
+        ],
+        "id": "01K26K4JMN0R3AEPSYB6Q9B37Q",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 3893.87,
+        "currency": "INR",
+        "payment_method": "debit_card",
+        "notes": "strategize B2B web-readiness"
+    },
+    {
+        "timestamp": "2025-08-06T21:09:39Z",
+        "category": [
+            "transportation",
+            "utilities"
+        ],
+        "id": "01K26K4JMPA4NARDC128BC0MJ7",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 6368.97,
+        "currency": "USD",
+        "payment_method": "credit_card",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-15T04:45:23Z",
+        "category": [
+            "food",
+            "entertainment"
+        ],
+        "id": "01K26K4JMQ00M02Z5KX9VN6N38",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 1960.51,
+        "currency": "USD",
+        "payment_method": "upi",
+        "notes": "iterate sexy infomediaries"
+    },
+    {
+        "timestamp": "2025-08-04T04:08:11Z",
+        "category": [
+            "food",
+            "entertainment"
+        ],
+        "id": "01K26K4JMRHYT9SB3BKK8DYAMQ",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 874.06,
+        "currency": "USD",
+        "payment_method": "upi",
+        "notes": "aggregate ubiquitous partnerships"
+    },
+    {
+        "timestamp": "2025-07-28T16:03:05Z",
+        "category": [
+            "utilities",
+            "transportation"
+        ],
+        "id": "01K26K4JMT5H5NYCDQFM44RP42",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 5696.19,
+        "currency": "INR",
+        "payment_method": "cash",
+        "notes": "reintermediate rich mindshare"
+    },
+    {
+        "timestamp": "2025-07-12T10:06:59Z",
+        "category": [
+            "utilities",
+            "entertainment"
+        ],
+        "id": "01K26K4JMVW1VM41N6XB1TZ6F3",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 560.39,
+        "currency": "INR",
+        "payment_method": "upi",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-08-04T12:31:18Z",
+        "category": [
+            "transportation",
+            "food"
+        ],
+        "id": "01K26K4JMV7AF8HM2113H8BRQ6",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 5452.66,
+        "currency": "USD",
+        "payment_method": "credit_card",
+        "notes": "drive granular e-services"
+    },
+    {
+        "timestamp": "2025-07-12T06:28:14Z",
+        "category": [
+            "entertainment",
+            "transportation"
+        ],
+        "id": "01K26K4JMW97658FVWEWTFF82E",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 9756.12,
+        "currency": "INR",
+        "payment_method": "cash",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-08-07T19:57:36Z",
+        "category": [
+            "utilities",
+            "transportation"
+        ],
+        "id": "01K26K4JMXN8MXMSEM4GYBAS47",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 2654.45,
+        "currency": "USD",
+        "payment_method": "upi",
+        "notes": "architect mission-critical initiatives"
+    },
+    {
+        "timestamp": "2025-07-31T04:41:08Z",
+        "category": [
+            "food",
+            "shopping"
+        ],
+        "id": "01K26K4JMY6STRKTX5Z1H61WXY",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 5116.3,
+        "currency": "INR",
+        "payment_method": "credit_card",
+        "notes": "leverage intuitive action-items"
+    },
+    {
+        "timestamp": "2025-07-24T12:42:28Z",
+        "category": [
+            "entertainment",
+            "shopping"
+        ],
+        "id": "01K26K4JMZWCCV35D7M3A0NHS6",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 2628.62,
+        "currency": "USD",
+        "payment_method": "cash",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-21T18:12:40Z",
+        "category": [
+            "entertainment",
+            "food"
+        ],
+        "id": "01K26K4JN0Z31HMY43RTR4X190",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 4343.24,
+        "currency": "INR",
+        "payment_method": "credit_card",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-03T03:34:13Z",
+        "category": [
+            "transportation",
+            "utilities"
+        ],
+        "id": "01K26K4JN16WGD6YZVC7RF0CS7",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 7550.66,
+        "currency": "INR",
+        "payment_method": "cash",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-08-08T04:22:29Z",
+        "category": [
+            "utilities",
+            "transportation"
+        ],
+        "id": "01K26K4JN2BEJ7N29EZN5N55V2",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 5221.54,
+        "currency": "INR",
+        "payment_method": "debit_card",
+        "notes": "generate 24/7 convergence"
+    },
+    {
+        "timestamp": "2025-07-08T20:24:52Z",
+        "category": [
+            "shopping",
+            "food"
+        ],
+        "id": "01K26K4JN3PXE75906XMY2FPYS",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 3736.98,
+        "currency": "INR",
+        "payment_method": "cash",
+        "notes": "deliver revolutionary initiatives"
+    },
+    {
+        "timestamp": "2025-07-20T10:39:32Z",
+        "category": [
+            "transportation",
+            "food"
+        ],
+        "id": "01K26K4JN43VMDDBP899CBZFV5",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 1752.44,
+        "currency": "USD",
+        "payment_method": "debit_card",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-13T19:08:11Z",
+        "category": [
+            "shopping",
+            "food"
+        ],
+        "id": "01K26K4JN492KP5SDMWQYBNNCZ",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 389.92,
+        "currency": "USD",
+        "payment_method": "cash",
+        "notes": "extend innovative experiences"
+    },
+    {
+        "timestamp": "2025-07-25T09:02:10Z",
+        "category": [
+            "utilities",
+            "transportation"
+        ],
+        "id": "01K26K4JN5SDBSKFGBE9A9F1F4",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 2953.1,
+        "currency": "USD",
+        "payment_method": "upi",
+        "notes": "maximize wireless metrics"
+    },
+    {
+        "timestamp": "2025-07-08T08:20:25Z",
+        "category": [
+            "utilities",
+            "entertainment"
+        ],
+        "id": "01K26K4JN689N7V8ETPF50XTXF",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 5576.64,
+        "currency": "INR",
+        "payment_method": "cash",
+        "notes": "mesh efficient supply-chains"
+    },
+    {
+        "timestamp": "2025-07-13T00:06:47Z",
+        "category": [
+            "entertainment",
+            "shopping"
+        ],
+        "id": "01K26K4JN7HXWT5C1GW67EQ340",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 6480.21,
+        "currency": "USD",
+        "payment_method": "credit_card",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-10T15:00:17Z",
+        "category": [
+            "utilities",
+            "entertainment"
+        ],
+        "id": "01K26K4JN8RA964S5F0XZZEBV1",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 7945.68,
+        "currency": "USD",
+        "payment_method": "upi",
+        "notes": "streamline global e-services"
+    },
+    {
+        "timestamp": "2025-07-21T11:09:36Z",
+        "category": [
+            "entertainment",
+            "utilities"
+        ],
+        "id": "01K26K4JN97FXZZJR8J0H7D4H0",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 2549.25,
+        "currency": "INR",
+        "payment_method": "credit_card",
+        "notes": "cultivate customized convergence"
+    },
+    {
+        "timestamp": "2025-07-03T03:04:04Z",
+        "category": [
+            "shopping",
+            "entertainment"
+        ],
+        "id": "01K26K4JNAE7XGR61E6VFSRM19",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 9375.08,
+        "currency": "INR",
+        "payment_method": "upi",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-29T10:59:01Z",
+        "category": [
+            "food",
+            "transportation"
+        ],
+        "id": "01K26K4JNBCJYRFRPAZZD0XY3V",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 5633.08,
+        "currency": "USD",
+        "payment_method": "upi",
+        "notes": "recontextualize 24/365 interfaces"
+    },
+    {
+        "timestamp": "2025-07-23T06:38:03Z",
+        "category": [
+            "entertainment",
+            "shopping"
+        ],
+        "id": "01K26K4JNC3VVR2PY52JPGV5D6",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 1617.46,
+        "currency": "USD",
+        "payment_method": "upi",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-08-02T19:28:26Z",
+        "category": [
+            "shopping",
+            "entertainment"
+        ],
+        "id": "01K26K4JND02HA61B3WVPP7P6V",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 3087.51,
+        "currency": "USD",
+        "payment_method": "credit_card",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-09T09:13:03Z",
+        "category": [
+            "entertainment",
+            "transportation"
+        ],
+        "id": "01K26K4JNEFHDRWZFC7T5PY0BC",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 3098.66,
+        "currency": "INR",
+        "payment_method": "debit_card",
+        "notes": "grow scalable infomediaries"
+    },
+    {
+        "timestamp": "2025-07-12T15:37:39Z",
+        "category": [
+            "transportation",
+            "food"
+        ],
+        "id": "01K26K4JNFDK24TCHZCY58PEZT",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 9999.93,
+        "currency": "INR",
+        "payment_method": "credit_card",
+        "notes": "recontextualize transparent action-items"
+    },
+    {
+        "timestamp": "2025-08-01T22:44:19Z",
+        "category": [
+            "shopping",
+            "transportation"
+        ],
+        "id": "01K26K4JNF9YC2XR1Q9X58QVHS",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 1725.35,
+        "currency": "INR",
+        "payment_method": "upi",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-28T06:48:57Z",
+        "category": [
+            "food",
+            "entertainment"
+        ],
+        "id": "01K26K4JNGEG2YS6HFPT7S049A",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 1670.27,
+        "currency": "USD",
+        "payment_method": "upi",
+        "notes": "synergize sticky bandwidth"
+    },
+    {
+        "timestamp": "2025-07-20T15:04:47Z",
+        "category": [
+            "food",
+            "utilities"
+        ],
+        "id": "01K26K4JNHESJDKYSX0XYPADN4",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 9712.61,
+        "currency": "INR",
+        "payment_method": "debit_card",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-08-07T21:48:51Z",
+        "category": [
+            "food",
+            "entertainment"
+        ],
+        "id": "01K26K4JNJ7NVCY9K4RPNQKHP0",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 2776.88,
+        "currency": "USD",
+        "payment_method": "credit_card",
+        "notes": "envisioneer proactive niches"
+    },
+    {
+        "timestamp": "2025-07-02T11:26:09Z",
+        "category": [
+            "shopping",
+            "transportation"
+        ],
+        "id": "01K26K4JNK8J3HNJSZ8HW2S5HA",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 5556.03,
+        "currency": "USD",
+        "payment_method": "upi",
+        "notes": "reintermediate open-source web-readiness"
+    },
+    {
+        "timestamp": "2025-07-13T14:12:47Z",
+        "category": [
+            "shopping",
+            "transportation"
+        ],
+        "id": "01K26K4JNMYXQT53TN2Z5QX07J",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 8429.73,
+        "currency": "USD",
+        "payment_method": "credit_card",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-08-06T00:44:23Z",
+        "category": [
+            "food",
+            "shopping"
+        ],
+        "id": "01K26K4JNNP1YTVYM9NAF779Q3",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 4877.53,
+        "currency": "USD",
+        "payment_method": "debit_card",
+        "notes": "harness bleeding-edge mindshare"
+    },
+    {
+        "timestamp": "2025-07-09T15:04:48Z",
+        "category": [
+            "utilities",
+            "shopping"
+        ],
+        "id": "01K26K4JNPEZZ0DKZ815M457AD",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 4882.28,
+        "currency": "INR",
+        "payment_method": "cash",
+        "notes": "incentivize distributed relationships"
+    },
+    {
+        "timestamp": "2025-07-13T00:08:09Z",
+        "category": [
+            "transportation",
+            "shopping"
+        ],
+        "id": "01K26K4JNQTFMG5FDT9YTGG5BV",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 7059.71,
+        "currency": "USD",
+        "payment_method": "cash",
+        "notes": "transition real-time methodologies"
+    },
+    {
+        "timestamp": "2025-08-02T05:56:57Z",
+        "category": [
+            "utilities",
+            "food"
+        ],
+        "id": "01K26K4JNR6PJX5F24WYQD8MNP",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 9256.09,
+        "currency": "USD",
+        "payment_method": "cash",
+        "notes": "repurpose value-added synergies"
+    },
+    {
+        "timestamp": "2025-07-27T00:33:02Z",
+        "category": [
+            "utilities",
+            "food"
+        ],
+        "id": "01K26K4JNS163GNY6AG8K9P8TP",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 9282.45,
+        "currency": "USD",
+        "payment_method": "upi",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-20T19:47:49Z",
+        "category": [
+            "food",
+            "utilities"
+        ],
+        "id": "01K26K4JNTP439K40S1SA28N7R",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 8597.11,
+        "currency": "INR",
+        "payment_method": "debit_card",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-30T03:29:17Z",
+        "category": [
+            "shopping",
+            "transportation"
+        ],
+        "id": "01K26K4JNT3RZQ0P3ZT4GKNPJZ",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 4663.0,
+        "currency": "USD",
+        "payment_method": "debit_card",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-01T12:31:55Z",
+        "category": [
+            "utilities",
+            "transportation"
+        ],
+        "id": "01K26K4JNVPFKZTQ9HS42J24Z8",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 5032.33,
+        "currency": "USD",
+        "payment_method": "credit_card",
+        "notes": "facilitate transparent content"
+    },
+    {
+        "timestamp": "2025-07-02T05:21:11Z",
+        "category": [
+            "food",
+            "utilities"
+        ],
+        "id": "01K26K4JNWBZHK2Z3MPYBM4BM3",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 6846.15,
+        "currency": "USD",
+        "payment_method": "debit_card",
+        "notes": "aggregate vertical bandwidth"
+    },
+    {
+        "timestamp": "2025-07-31T03:50:58Z",
+        "category": [
+            "food",
+            "utilities"
+        ],
+        "id": "01K26K4JNX96FCBA6A9C6F83E5",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 5189.26,
+        "currency": "USD",
+        "payment_method": "credit_card",
+        "notes": "generate dynamic metrics"
+    },
+    {
+        "timestamp": "2025-07-31T21:15:54Z",
+        "category": [
+            "entertainment",
+            "utilities"
+        ],
+        "id": "01K26K4JNYNZMY2Q8JJ2E9XGEZ",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 1344.83,
+        "currency": "USD",
+        "payment_method": "debit_card",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-10T19:45:57Z",
+        "category": [
+            "shopping",
+            "food"
+        ],
+        "id": "01K26K4JNZTAY3BD0PCAE0HS57",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 3152.37,
+        "currency": "INR",
+        "payment_method": "debit_card",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-18T19:21:24Z",
+        "category": [
+            "transportation",
+            "utilities"
+        ],
+        "id": "01K26K4JP09T6X47Q6TJZHH0DG",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 1524.36,
+        "currency": "USD",
+        "payment_method": "upi",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-12T04:34:41Z",
+        "category": [
+            "food",
+            "utilities"
+        ],
+        "id": "01K26K4JP1MG4Z6NSFF2TV6EC1",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 5778.5,
+        "currency": "USD",
+        "payment_method": "credit_card",
+        "notes": "generate frictionless methodologies"
+    },
+    {
+        "timestamp": "2025-08-04T05:54:26Z",
+        "category": [
+            "food",
+            "transportation"
+        ],
+        "id": "01K26K4JP28MCGZWBT3X7P3EVE",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 73.81,
+        "currency": "INR",
+        "payment_method": "debit_card",
+        "notes": "incubate sexy experiences"
+    },
+    {
+        "timestamp": "2025-07-08T00:50:02Z",
+        "category": [
+            "shopping",
+            "entertainment"
+        ],
+        "id": "01K26K4JP3AJBHFGG2V1GQ4ESQ",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 53.7,
+        "currency": "USD",
+        "payment_method": "upi",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-08-07T11:23:26Z",
+        "category": [
+            "utilities",
+            "food"
+        ],
+        "id": "01K26K4JP3JG68YHAD531WJZDN",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 1458.73,
+        "currency": "USD",
+        "payment_method": "credit_card",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-27T07:31:04Z",
+        "category": [
+            "entertainment",
+            "food"
+        ],
+        "id": "01K26K4JP4S82E7HRXNXARVKZM",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 4714.64,
+        "currency": "INR",
+        "payment_method": "debit_card",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-07T15:13:04Z",
+        "category": [
+            "food",
+            "utilities"
+        ],
+        "id": "01K26K4JP5SF2RE4PSZMBTD0RJ",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 9093.33,
+        "currency": "INR",
+        "payment_method": "upi",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-08-07T13:14:36Z",
+        "category": [
+            "food",
+            "shopping"
+        ],
+        "id": "01K26K4JP6Y09PDGS3Z5YQ0CMW",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 795.68,
+        "currency": "INR",
+        "payment_method": "debit_card",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-05T08:55:52Z",
+        "category": [
+            "shopping",
+            "entertainment"
+        ],
+        "id": "01K26K4JP7HZGPWS7XVZXDJC2Z",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 1696.08,
+        "currency": "USD",
+        "payment_method": "cash",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-20T18:49:10Z",
+        "category": [
+            "shopping",
+            "utilities"
+        ],
+        "id": "01K26K4JP7K4WPJ58CA95EKK97",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 268.03,
+        "currency": "INR",
+        "payment_method": "debit_card",
+        "notes": "harness plug-and-play schemas"
+    },
+    {
+        "timestamp": "2025-07-09T04:07:45Z",
+        "category": [
+            "utilities",
+            "transportation"
+        ],
+        "id": "01K26K4JP80PF0KRP3054P3Q6J",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 5632.83,
+        "currency": "USD",
+        "payment_method": "cash",
+        "notes": "brand vertical e-tailers"
+    },
+    {
+        "timestamp": "2025-07-20T03:38:34Z",
+        "category": [
+            "food",
+            "shopping"
+        ],
+        "id": "01K26K4JP95NEZX7SS1M3H277Z",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 2057.72,
+        "currency": "USD",
+        "payment_method": "credit_card",
+        "notes": "mesh user-centric vortals"
+    },
+    {
+        "timestamp": "2025-07-06T08:48:42Z",
+        "category": [
+            "food",
+            "entertainment"
+        ],
+        "id": "01K26K4JPA94BVYT1F6M6W8ZGZ",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 4652.15,
+        "currency": "USD",
+        "payment_method": "credit_card",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-08-02T20:00:08Z",
+        "category": [
+            "utilities",
+            "food"
+        ],
+        "id": "01K26K4JPBH2FKG674WKSAFC29",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 6728.09,
+        "currency": "USD",
+        "payment_method": "credit_card",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-08-01T08:00:12Z",
+        "category": [
+            "utilities",
+            "shopping"
+        ],
+        "id": "01K26K4JPCSCFXR66GTEP4RCBT",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 1168.44,
+        "currency": "INR",
+        "payment_method": "debit_card",
+        "notes": "enhance clicks-and-mortar bandwidth"
+    },
+    {
+        "timestamp": "2025-08-08T20:47:22Z",
+        "category": [
+            "food",
+            "shopping"
+        ],
+        "id": "01K26K4JPDZN2QB7PDF4PS1VT8",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 6217.73,
+        "currency": "INR",
+        "payment_method": "upi",
+        "notes": null
+    },
+    {
+        "timestamp": "2025-07-27T15:42:45Z",
+        "category": [
+            "shopping",
+            "utilities"
+        ],
+        "id": "01K26K4JPE2YR24BG1ASCVZF66",
+        "bill_imageurl": "https://storage.googleapis.com/androiddevelopers/samples/media/posters/2_3-300/on-the-bridge.jpg",
+        "amount": 7241.96,
+        "currency": "USD",
+        "payment_method": "credit_card",
+        "notes": "e-enable global bandwidth"
     }
 ]
