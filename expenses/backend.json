@@ -18,8 +18,8 @@
                 "others"
             ],
             "amount": 200.0,
-            "currency": "cash",
-            "payment_method": "upi",
+            "currency": "USD",
+            "payment_method": "credit_card",
             "notes": "Android Devs Subscription"
         },
         
