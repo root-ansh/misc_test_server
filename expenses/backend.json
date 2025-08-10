@@ -1,6 +1,30 @@
 {
     "data": [
         {
+            "timestamp": "2025-08-11T09:08:00Z",
+            "category": [
+                "transportation",
+                "shopping"
+            ],
+            "bill_imageurl": "https://raw.githubusercontent.com/root-ansh/misc_test_server/refs/heads/master/expenses/unnamed.png",
+            "amount": 477.4,
+            "currency": "USD",
+            "payment_method": "upi",
+            "notes": "Flight Tickets"
+        },
+{
+            "timestamp": "2025-08-05T09:08:00Z",
+            "category": [
+                "others"
+            ],
+            "amount": 200.0,
+            "currency": "cash",
+            "payment_method": "upi",
+            "notes": "Android Devs Subscription"
+        },
+        
+        
+        {
             "timestamp": "2025-07-11T09:08:00Z",
             "category": [
                 "transportation",
