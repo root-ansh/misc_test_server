@@ -15,9 +15,9 @@
 {
             "timestamp": "2025-08-05T09:08:00Z",
             "category": [
-                "others"
+                "transportation"
             ],
-            "amount": 200.0,
+            "amount": 800.0,
             "currency": "USD",
             "payment_method": "credit_card",
             "notes": "Android Devs Subscription"
